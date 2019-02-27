@@ -1,0 +1,16 @@
+.margin-top-80 {
+    margin-top: 80px;
+}
+.max-width-330 {
+    max-width: 330px;
+}
+.layout-center {
+    margin: 0 auto;
+}
+
+.mostHot{
+    max-height: 900px;
+    min-height: 900px;
+    max-width: 1600px;
+    min-width: 1600px;
+}
